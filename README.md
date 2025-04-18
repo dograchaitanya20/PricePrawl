@@ -66,7 +66,7 @@ PricePrawl is a comprehensive price tracking application that helps users monito
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/harshraj001/Price-Prawl
+   git clone https://github.com/dograchaitanya20/PricePrawl
    ```
 
 2. **Database Setup**
